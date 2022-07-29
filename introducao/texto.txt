@@ -1,0 +1,2 @@
+O Git Bash é o aplicativo para ambientes do Microsoft Windows que oferece a camada de emulação para a experiência de linha de comando Git. 
+link
